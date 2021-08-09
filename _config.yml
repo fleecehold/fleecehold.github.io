@@ -59,22 +59,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Fleeceholder"
+  name   : "Fleeceholders"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a leaseholder that is being fleeced."
+  bio    : "We are leaseholders being fleeced."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fleeceholders@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fleeceholders"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.fleecehold.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 #footer:
 #  links:
