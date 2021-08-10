@@ -7,11 +7,12 @@ header:
 ---
 
 ### Who are we?
+We are leaseholders being fleeced. 
 
 ### We want to hear from you
 Are you facing an injustice with your property? Do you have a story to tell? Are you being fleeced? Whether you're embroiled in a years long legal battle or want to name and shame an evil money grabbing property firm, we want to hear from you. 
 
 We believe that by exposing companies and individuals for their shady dealings we can shine a spotlight on the injustices that unsuspecting leaseholder are facing. Who knows, maybe we can even bring about some change for the better?  
 
-If you want to write about whatever situation you're in, publicly or anonymously, you can email us at fleeceholders@gmail.com and we'll share it on this site.
+If you want to write about whatever situation you're in, publicly or anonymously, you can email us at fleeceholders@gmail.com and we'll share it on this site. Your voice matters.
 

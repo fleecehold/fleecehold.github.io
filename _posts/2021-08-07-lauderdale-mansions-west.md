@@ -1,8 +1,8 @@
 ---
 title: "Lauderdale Mansions West, Maida Vale"
-date: 2021-08-06T00:00:00-00:00
+date: 2021-08-07T00:00:00-00:00
 categories:
-  - From the web
+  - Shared
 
 tags:
   - lauderdale mansions west

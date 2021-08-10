@@ -3,12 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: "#Fleecehold"
 author_profile: false
 
 header:
   overlay_image: /assets/images/cover.jpg
 excerpt: >
-  A home for leaseholders being fleeced
+  A voice for leaseholders being fleeced
+entries_layout: grid
 feature_row:
   - image_path: /assets/images/bulb.png
     alt: "Welcome"
@@ -17,11 +19,11 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://i2.wp.com/nationalleaseholdcampaign.org/wp-content/uploads/2021/07/Final_Rally_Design_LT_Poster_Landscape2-1.jpg?resize=300%2C200&ssl=1
+  - image_path: /assets/images/leaseholders-together-thumb.jpg
     alt: "Leaseholders Rally"
     title: "Leaseholders Together Rally"
     excerpt: "The **National Leasehold Campaign** and **End Our Cladding Scandal** are running a #LeaseholdersTogether rally"
-    url: "https://nationalleaseholdcampaign.org/its-back-leaseholders-together-rally-time-for-action/"
+    url: "/shared/leaseholders-together-rally"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/manor-vale-thumb.jpg
@@ -32,4 +34,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-{% include feature_row %}
+{% if page.url == "/" %}
+  <h3 class="archive__subtitle">Featured</h3>
+  {% include feature_row %}
+{% endif %}

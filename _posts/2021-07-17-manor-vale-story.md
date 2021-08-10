@@ -6,10 +6,6 @@ author:
   location    : "Brentford"
   bio         : "Don't mess with us."
   avatar      : "/assets/images/manor-vale-bio.jpg"
-  links:
-  - label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:manorvaleresidents@gmail.com"
 
 categories:
   - Blog
