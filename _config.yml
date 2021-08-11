@@ -23,7 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-teaser: /assets/images/bulb.png
+teaser: /assets/images/teaser.jpg
 
 # Build settings
 markdown: kramdown
@@ -72,7 +72,7 @@ author:
       url: "https://twitter.com/fleeceholders"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.fleecehold.com"
+      url: "https://fleecehold.com"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"

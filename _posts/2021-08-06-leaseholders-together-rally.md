@@ -21,9 +21,8 @@ The [National Leasehold Campaign][nlc] and [End Our Cladding Scandal][eocs] are 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/leaseholders-together.jpg)
 
-Find out more [here][nlc-promo] and [here][eocs-promo].
+Find out more [here][nlc-promo].
 
 [nlc]: https://nationalleaseholdcampaign.org/
 [nlc-promo]: https://nationalleaseholdcampaign.org/its-back-leaseholders-together-rally-time-for-action/
 [eocs]: https://endourcladdingscandal.org/
-[eocs-promo]: https://endourcladdingscandal.org/newsfeed/leaseholders-together-rally-16-september-2021/
