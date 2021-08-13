@@ -16,6 +16,6 @@ excerpt: >
   Parkcity plans for new flats on the roof of Lauderdale Mansions rejected. 
 ---
 
-Those greedy developers Parkcity Ltd tried it on again! Plans for new flats on the roof of Lauderdale Mansions West in Maida Vale were thankfully rejected back in . Read more [here][article].
+Those greedy developers Parkcity Ltd tried it on again! Plans for new flats on the roof of Lauderdale Mansions West in Maida Vale were thankfully rejected last year. Read more [here][article].
 
 [article]: https://www.hamhigh.co.uk/news/lauderdale-mansions-west-council-reject-9-flats-on-the-roof-3673436
