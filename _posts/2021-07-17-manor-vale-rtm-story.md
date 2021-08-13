@@ -11,9 +11,8 @@ categories:
   - Blog
 
 tags:
-  - manor vale
   - rooftop development
-  - park city
+  - parkcity
 
 header:
   overlay_image: /assets/images/manor-vale-cover.jpg

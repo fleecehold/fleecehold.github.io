@@ -5,7 +5,6 @@ categories:
   - Shared
 
 tags:
-  - apex court
   - rooftop development
 
 header:

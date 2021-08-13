@@ -5,7 +5,6 @@ categories:
   - Shared
 
 tags:
-  - national leasehold campaign
   - cladding scandal
 
 header:
