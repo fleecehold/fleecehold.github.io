@@ -4,7 +4,6 @@ date: 2021-07-17T00:00:00-00:00
 author:
   name        : "Manor Vale RTM Directors"
   location    : "Brentford"
-  bio         : "Don't mess with us."
   avatar      : "/assets/images/manor-vale-bio.jpg"
 
 categories:
