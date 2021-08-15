@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/leaseholders-together-thumb.jpg
 excerpt: >
   Get involved.
-
+description: "Fleecehold. Leaseholders Together Rally. Cladding scandal."
 ---
 
 The [National Leasehold Campaign][nlc] and [End Our Cladding Scandal][eocs] are running a **#LeaseholdersTogether** rally.  

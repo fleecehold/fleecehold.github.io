@@ -19,6 +19,7 @@ header:
   teaser: /assets/images/manor-vale-thumb.jpg
 excerpt: >
   The residents of Manor Vale are being fleeced. Here's their story.
+description: "Fleecehold. Manor Vale, Brentford. RTM story. Rooftop development. Parkcity."
 ---
 
 Manor Vale is a 1930’s Art Deco block of flats, comprising of 72  flats across 4 separate blocks.  Originally the roofs were flat, but these were converted to pitched roofs c. 1980. 
