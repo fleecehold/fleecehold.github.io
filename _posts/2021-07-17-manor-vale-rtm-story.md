@@ -10,6 +10,7 @@ categories:
   - Blog
 
 tags:
+  - manor vale
   - rooftop development
   - parkcity
 
@@ -48,5 +49,7 @@ In May 2021, Ark Insurance rejected the claim based on the endorsements that “
 Following the rejection of the Ark claim, the RTM Companies submitted a claim  under the building insurance policy. AXA, the insurers, carried out a site inspection on the 21st May 2021, and our claim has been referred to Keoghs LLP by AXA to determine the extent of their policy liability. 
 
 The RTM Companies are appealing against Ark Insurance’s claim decision and have sought appropriate legal advice. In the meantime, repairs are required to reinstate the structural integrity of the building and the RTM Companies are working with a structural engineer to do so.
+
+_The Manor Vale Right To Manage directors._
 
 <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

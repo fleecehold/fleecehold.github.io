@@ -9,7 +9,7 @@ description: "Fleecehold. A voice for leaseholders being fleeced. About. What is
 ---
 
 ### Who are we?
-We are regular people that are lucky enough to have a foot on the property ladder. However, as leaseholders, little did we realise that this would actually feel like renting with the addition of being fleeced by unscrupulous so-called property management companies.  
+We are regular people that are lucky enough to have a foot on the property ladder. However, as leaseholders, little did we realise that this would actually feel more like renting with the addition of being fleeced by unscrupulous so-called property management companies.  
 
 ### We want to hear from you
 Are you facing an injustice with your property? Do you have a story to tell? Are you being fleeced? Whether you're embroiled in a years long legal battle or want to name and shame an evil money grabbing property firm, we want to hear from you. 
