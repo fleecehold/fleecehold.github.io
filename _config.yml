@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "#FLEECEHOLD"
 email:
-description: Fleecehold is a collection of blogs and shared posts from leaseholders and freeholders (fleeceholders) who are being fleeced.
+description: Fleecehold.com - A voice for leaseholders being fleeced.
 twitter_username: fleeceholders
 github_username: username
 minimal_mistakes_skin: default

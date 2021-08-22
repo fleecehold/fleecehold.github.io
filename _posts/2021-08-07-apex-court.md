@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/apex-court.jpg
 excerpt: >
   The residents of Apex Court are being fleeced.
-description: "Fleecehold. Apex Court, West Ealing. Rooftop development."
+description: "Apex Court rooftop development - Fleecehold.com"
 ---
 
 The residents at Apex Court in West Ealing are being fleeced. Another shambolic rooftop development is making residents' lives miserable. Check it out in this [BBC article][article]. 

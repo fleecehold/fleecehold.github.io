@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
-description: "Fleecehold. A voice for leaseholders being fleeced. About. What is Fleecehold. Fleeceholders. Who are we."
+description: "Fleecehold.com - Who are we?"
 ---
 
 ### Who are we?

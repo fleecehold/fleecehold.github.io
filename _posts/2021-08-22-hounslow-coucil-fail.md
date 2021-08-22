@@ -17,8 +17,8 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   teaser: /assets/images/hounslow-teaser.jpg
 excerpt: >
-  The council approved plans for 7 rooftop flats in Manor Vale, Brentford. Was this a mistake?
-description: "Fleecehold. Manor Vale, Brentford. Hounslow council. Planning permission. Rooftop development."
+  The council approved plans for 7 rooftop flats at Manor Vale, Brentford. Was this a mistake?
+description: "Hounslow Council fail Manor Vale - Fleecehold.com"
 ---
 
 ## Backstory
