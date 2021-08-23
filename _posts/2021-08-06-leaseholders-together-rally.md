@@ -25,7 +25,3 @@ Find out more [here][nlc-promo].
 [nlc]: https://nationalleaseholdcampaign.org/
 [nlc-promo]: https://nationalleaseholdcampaign.org/its-back-leaseholders-together-rally-time-for-action/
 [eocs]: https://endourcladdingscandal.org/
-
-{% if page.comments == true %}
-  {% include comments.html %}
-{% endif %}
