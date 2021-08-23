@@ -126,7 +126,7 @@ analytics:
     tracking_id: "UA-204922036-1"
     anonymize_ip: false # default
 
-staticman_url: https://fleecehold-staticman.herokuapp.com/v2/entry/fleecehold/fleecehold.github.io/master/comments
+staticman_url: https://fleecehold-staticman.herokuapp.com/v2/entry/fleecehold/fleecehold.github.io/main/comments
 
 reCaptcha:
   enabled: true
