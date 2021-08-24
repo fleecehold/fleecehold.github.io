@@ -126,6 +126,7 @@ analytics:
     tracking_id: "UA-204922036-1"
     anonymize_ip: false # default
 
+# TODO: Is this needed?
 staticman_url: https://fleecehold-staticman.herokuapp.com/v2/entry/fleecehold/fleecehold.github.io/main/comments
 
 reCaptcha:
@@ -133,4 +134,9 @@ reCaptcha:
   siteKey: 6LfGQxwcAAAAAG4xAOm62L7OBecO5pjZfznm8rIB
   secret: lM0xqfPfJguPQttsq6cn90exAGiCZWifGm99BsIDtV0Lya9TgCQAEdwjqUY5kCn/kKegvTFcdAX0u4KTIWEAAw7HNksFdQ2FgqVcLC3h2Xz8FrywVLkabb4793LF5QRHQW0IQ9Mw5DXnhhNSvy8gklcmZSCeq5Ww2L/sool+SfvrBZaahFQFWOnsvHuLT0MYJLYRt5jIU7yPxxPzoqBenb39rL/SbfwXPN1I2Fa65AiNPztXfgkY2+6LtxiUeY4cx8sHJoYALGEiBc0YmK98dPAOmc4QqvtOGodCtfJarWUZ+Zb8p57ABsE7vCLeTpksM/Hsb8jhixhYNnbgf5uZMMRM8ypgnP/KYvFKaBu0OmvMzUnsD4MecrE/niwAm9gX70h1RjHtnyEWOGugZ7kEzk0etqD7e2bpSwLjD7bj3+STMZxQfSSHPIOFPUq/W/JMIXLi1Cm3GnqcZ7o/RE1l/nWtNqYXstSnOv5OZG3L2If4e5Ge1jxDIeI58sydqCY5ky+OOGPbOAGAPbPwVz8MZ4wQsFIQH43witQXSuWtkyQuiOhUh/x/FtSG6tYpF0L9P4kG+a8PaEuD7ViAuBKS7R6TNjTBVhzS5Mv08HNrs00xs2asPs2aTjNUrSC60rMu7rjd3QKMxN4le7xL5DgEXNLDBHOKnxW+V9GDx95qbrY=
 
-comments: true
+repository  : fleecehold/fleecehold.github.io
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "main"
+    endpoint : "https://fleecehold-staticman.herokuapp.com/v2/entry/"
