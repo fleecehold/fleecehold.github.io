@@ -96,7 +96,7 @@ It seems to be the same flat / floorplan but the numbers are quite different alb
 ~~~
 77.4%, just above the 75% minimum. Again, I'm not sure these numbers are correct given how much they vary from the Kinleigh Folkard & Hayward website or whether I'm even interpreting them correctly.
 
-Then I had a brainwave, why don't I just check the actual plans submitted to the council? You know, the ones that the decision to grant planning application was based on? So I searched the [Hounslow planning applications][hounslow-search] website and eventually found the relevant [plan][hounslow-plan]. And there it was, in black and white, clear as day - 
+Then I had a brainwave, why don't I just check the actual plans submitted to the council? You know, the ones that the decision to grant planning application was based on? So I searched the [Hounslow planning applications][hounslow-search] website and eventually found the relevant [plan][hounslow-plan]. And there it was, in black and white, clear as day, on pages 2, 3, and 4 for blocks A, B and C - 
 
 > FLAT GIA = 68 sq m  
 > 48 sq m @ C 2.3 m = 70.5% OF GIA
@@ -135,9 +135,9 @@ Planning application for 7 flats (granted)
 
 <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
-[hounslow-appeal-decision]: http://planning2.hounslow.gov.uk/NPSPublicDocs/00679153.pdf
 [kfh]: https://www.kfh.co.uk/south-west-london-and-surrey/brentford/tw8/flats-for-sale/2219496/  
 [pl]: https://www.primelocation.com/for-sale/details/58419955/
 [hounslow-search]: https://planning.hounslow.gov.uk/planning_search.aspx
-[hounslow-plan]: http://planning2.hounslow.gov.uk/NPSPublicDocs/00529304.pdf
+[hounslow-plan]: /assets/hounslow-council/00529304.pdf
+[hounslow-appeal-decision]: /assets/hounslow-council/00679153.pdf
 
